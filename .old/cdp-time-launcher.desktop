@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=mate-panel-launcher
+Icon[C]=mate-panel-launcher
+Exec=mate-terminal --command "/home/michael/utils/time.sh"
+Name[C]=Time Clock
+Name=Time Clock

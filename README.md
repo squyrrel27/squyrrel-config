@@ -6,7 +6,7 @@ My personal set of configuration files, as I continue my journey on configuring 
 
 ## Repo Breakdown
 - config
-    - Useful config files for vairous programs (vim, bash, etc)
+    - Useful config files for various programs (vim, bash, etc)
 - scripts
     - Useful scripts for bash or powershell (but mostly bash let's be real)
 - wallpapers

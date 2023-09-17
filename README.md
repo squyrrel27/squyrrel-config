@@ -12,19 +12,27 @@ My personal set of configuration files, as I continue my journey on configuring 
 - wallpapers
     - Some of the most beautiful images you have ever seen. Not made by me
 - COMMANDS.md
-    - A large container filled we various helpuf commands for linux
+    - A large file filled with various helpful commands for linux
 
 ### MGD Home Folder Standard)
 - $HOME folder
   - Keep the folders in there with capitals and add:
     - /apps - application builds not done in package manager
     - /dev - development projects
-        - This should be backed up
+        - /archive - older saved-off stuff
+        - /config - github repo: /mgdav31/configure-the-world
+        - /documents - gitea repo: /CDP/documents
+        - /projects - coding projects that *do contain* their own git
+        - /sandbox - github repo: /mgdav31/mikes-sandbox
+        - /static - common libs & other data 
     - /games - *(optional) You can also put games in stuff
-    - /secret - Any secrets/keys that need stored
+    - /secret - Any secrets/keys that need stored (600 permissions) 
   - Since dev is the only one backed up, the outside dirs
-  should really only hold data applicable to *this machine.*
-  - Any data that needs to be backed up should be in dev/ or /stuff
+  should really only hold data applicable  
+  to *this machine.*
+  - Unless media has any usage for projects, then it's best to save them
+  into bulk storage. And  
+  remember, the capital folders in $HOME should be treated as tmp folders.
 
 ### MGD Bulk Folder Standard
 - /stuff folder:
